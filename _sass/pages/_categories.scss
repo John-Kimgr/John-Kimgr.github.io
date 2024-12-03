@@ -7,8 +7,7 @@
 
 .categories {
   margin-bottom: 2rem;
-  border-color: var(--categories-border);
-
+  border-color: black;
   &.card,
   .list-group {
     @extend %rounded;
@@ -54,7 +53,7 @@
   height: 1.7rem;
   border-radius: 50%;
   text-align: center;
-  color: #6c757d !important;
+  color: #374450 !important;
 
   i {
     position: relative;
