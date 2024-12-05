@@ -2,7 +2,7 @@
 title: Diary, 첫 글
 description: Diary
 author: Garming
-date: 2024-12-03 23:33:00 +0800
+date: 2024-11-23 23:33:00 +0800
 categories: [Blog]
 tags: [Github, Jekyll]
 
