@@ -1,8 +1,8 @@
 @mixin styles {
   /* Framework color */
   --main-bg: white;
-  --mask-bg: #c1c3c5;
-  --main-border-color: #f3f3f3;
+  --mask-bg: blue;
+  --main-border-color: black;
 
   /* Common color */
   --text-color: #34343c;
@@ -47,12 +47,12 @@
   /* Topbar */
   --topbar-bg: rgb(255, 255, 255, 0.7);
   --topbar-text-color: rgb(78, 78, 78);
-  --search-border-color: rgb(240, 240, 240);
-  --search-icon-color: #c2c6cc;
-  --input-focus-border-color: #b8b8b8;
+  --search-border-color: black;
+  --search-icon-color: black;
+  --input-focus-border-color: black;
 
   /* Home page */
-  --post-list-text-color: dimgray;
+  --post-list-text-color: black;
   --btn-patinator-text-color: #555555;
   --btn-paginator-hover-color: var(--sidebar-bg);
 
@@ -62,13 +62,13 @@
   --btn-share-color: gray;
   --btn-share-hover-color: #0d6efd;
   --card-bg: white;
-  --card-hovor-bg: #e2e2e2;
-  --card-shadow: rgb(104, 104, 104, 0.05) 0 2px 6px 0,
-    rgba(211, 209, 209, 0.15) 0 0 0 1px;
+  --card-hovor-bg: #33a2ce72;
+  --card-shadow: rgba(27, 26, 26, 0.05) 0 2px 6px 0,
+    rgba(16, 15, 15, 0.15) 0 0 0 2px;
   --footnote-target-bg: lightcyan;
-  --tb-odd-bg: #fbfcfd;
-  --tb-border-color: #eaeaea;
-  --dash-color: silver;
+  --tb-odd-bg: black;
+  --tb-border-color: black;
+  --dash-color: black;
   --kbd-wrap-color: #bdbdbd;
   --kbd-text-color: var(--text-color);
   --kbd-bg-color: white;
@@ -83,7 +83,7 @@
   --prompt-danger-icon-color: #df3c30;
 
   /* Tags */
-  --tag-border: #dee2e6;
+  --tag-border: black;
   --tag-shadow: var(--btn-border-color);
   --tag-hover: rgb(222, 226, 230);
   --search-tag-bg: #f8f9fa;

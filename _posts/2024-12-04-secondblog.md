@@ -2,8 +2,8 @@
 title: "[Jekyll] GitHub Pages 만들기"
 description: Jekyll-theme-chirpy를 이용한 블로그 작성
 date: 2024-12-04 00:34:00 +0900
-categories: [Tutorial]
-tags: [jekyll, chirpy, github-pages]
+categories: [Jekyll]
+tags: [Jekyll, chirpy, github-pages]
 pin: true
 math: false
 mermaid: false

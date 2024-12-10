@@ -1,5 +1,5 @@
 ---
-title: "[Diary], 첫 글"
+title: "[Diary] 첫 글"
 description: Diary
 author: Garming
 date: 2024-11-23 23:33:00 +0800

@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Garming # the main title
 
-tagline: Garming's story # it will display as the subtitle
+tagline: Garming's 개발일기 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
