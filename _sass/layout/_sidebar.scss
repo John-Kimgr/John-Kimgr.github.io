@@ -58,6 +58,10 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
     display: block;
     width: 6.5rem;
     height: 6.5rem;
+    &:hover {
+      width: 10rem;
+      height: 10rem;
+    }
     overflow: hidden;
     box-shadow: var(--avatar-border-color) 0 0 0 2px;
     transform: translateZ(0); /* fixed the zoom in Safari */
@@ -144,7 +148,7 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
         color: white;
 
         &:hover {
-          background-color: var(--sidebar-hover-bg);
+          background-color: rgb(255, 255, 255);
           color: black;
         }
 
@@ -163,7 +167,7 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
       &.active {
         .nav-link {
           color: black;
-          background-color: white;
+          background-color: rgb(209, 209, 253);
 
           span {
             opacity: 1;

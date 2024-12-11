@@ -2,16 +2,16 @@
   color-scheme: dark;
 
   /* Framework color */
-  --main-bg: rgb(27, 27, 30);
+  --main-bg: rgb(44, 45, 45);
   --mask-bg: rgb(68, 69, 70);
   --main-border-color: rgb(44, 45, 45);
 
   /* Common color */
-  --text-color: rgb(175, 176, 177);
-  --text-muted-color: #868686;
+  --text-color: rgb(255, 255, 255);
+  --text-muted-color: #b7b2b2;
   --text-muted-highlight-color: #aeaeae;
-  --heading-color: #cccccc;
-  --label-color: #a7a7a7;
+  --heading-color: white;
+  --label-color: #c3c2c2;
   --blockquote-border-color: rgb(66, 66, 66);
   --blockquote-text-color: #868686;
   --link-color: rgb(138, 180, 248);
@@ -37,7 +37,7 @@
   --sidebar-bg: #1e1e1e;
   --sidebar-border-color: #292929;
   --sidebar-muted-color: #868686;
-  --sidebar-active-color: rgb(255, 255, 255, 0.95);
+  --sidebar-active-color: rgba(6, 3, 3, 0.95);
   --sidebar-hover-bg: #262626;
   --sidebar-btn-bg: #232328;
   --sidebar-btn-color: #787878;
